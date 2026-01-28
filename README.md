@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1ABC9C&height=120&section=header" />
+
+
 ### 👋🌍 Hello, I'm Daniel.
 
 I'm currently finishing high school and planning my next steps in technology.  
