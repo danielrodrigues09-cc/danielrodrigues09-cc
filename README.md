@@ -16,7 +16,7 @@ focused on software development, websites, systems, and other tech solutions.
 
 ---
 
-### 📱 Social Media 
+### 📱 Social Network 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_09danielrod)
 
