@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1ABC9C&height=120&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0066FF&height=130&section=header" />
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=26&center=true&vCenter=true&width=600&lines=Hello%2C+my+name+is+Daniel;GTA+Developer+%7C+Pawn+Language;Future+Computer+Science+Student;Building+my+path+in+technology" />
+</h3>
 
 
 ### 👋🌍 Hello, I'm Daniel.
