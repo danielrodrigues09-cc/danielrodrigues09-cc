@@ -18,6 +18,7 @@ focused on software development, websites, systems, and other tech solutions.
 - Pawn — I already have practical experience and have worked with this language.
  
  👉🏼 🎮 San Andreas Multiplayer (SAMP) 
+<code>&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;&#9608;</code> Pawn (65%)
 
 🚀 Always interested in learning, evolving, and building real projects in programming.
 
