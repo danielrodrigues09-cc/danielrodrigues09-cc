@@ -27,7 +27,11 @@ focused on software development, websites, systems, and other tech solutions.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_09danielrod)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00E5FF&height=110&section=footer" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=18&center=true&vCenter=true&width=500&lines=Built+with+focus%2C+discipline+and+code;GTA+Developer+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7" />
+</p>
 <!--
 **danielrodrigues09-cc/danielrodrigues09-cc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
